@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav-Shrivastava
 - 👀 I’m interested in fixing errors And Learning New Things.
-- 🌱 I’m currently learning SAPUI5
+- 🌱 I’m currently learning SAP Cloud Application Programming
 - 💞️ I’m looking to collaborate on AI-ML Development.
 - 📫 How to reach me ...
 
